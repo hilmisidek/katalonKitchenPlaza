@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Filter by price_ui-slider-handle ui-co_0ae57b</name>
+   <tag></tag>
+   <elementGuidId>5b4cdb52-fe6d-4e23-8a48-c6bd0e51f809</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='woocommerce_price_filter-6']/form/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-slider-handle.ui-corner-all.ui-state-default.ui-state-focus.ui-state-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6859259e-cb6a-4c5f-af37-d5ed6848531c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>ba2c2d1d-8c6f-4859-9af5-bed67baba41a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-slider-handle ui-corner-all ui-state-default ui-state-focus ui-state-hover</value>
+      <webElementGuid>d69945fc-6ca6-4e74-9d7e-645cdc01c970</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;woocommerce_price_filter-6&quot;)/form[1]/div[@class=&quot;price_slider_wrapper&quot;]/div[@class=&quot;price_slider ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content&quot;]/span[@class=&quot;ui-slider-handle ui-corner-all ui-state-default ui-state-focus ui-state-hover&quot;]</value>
+      <webElementGuid>53bfc230-0659-40b5-a3f4-7b0081c7f98d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='woocommerce_price_filter-6']/form/div/div/span</value>
+      <webElementGuid>17922043-177c-48e8-9b4f-1035e8463175</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/span</value>
+      <webElementGuid>abc6d0ae-30b6-4f9e-ae98-71c3c26abdc4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Reg_Email_Error</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>231ea67a-f029-485c-b79e-b48f05b9d216</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>zalikamari%40gmail.com Error%3A+An+account+is+already+registered+with+your+email+address.+Please+log+in.</data>
+   <data>hilmisidek%40hotmail.com Error%3A+An+account+is+already+registered+with+your+email+address.+Please+log+in.</data>
+   <data>email%40email Error%3A+Please+provide+a+valid+email+address.</data>
+   <data>email%40emaileeeeeeeeeeeeeeeeee Error%3A+Please+provide+a+valid+email+address.</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>email_Exist</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>error_Text</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Shop by Brands</name>
+   <tag></tag>
+   <elementGuidId>98a064e8-cc8f-4e86-a69b-62a1d622e093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-2035']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-2035 > a.item-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f73a08e8-be7b-4d07-9024-c5073284b537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kitchenplaza.com.my/shop-by-brands/</value>
+      <webElementGuid>99c9e716-695e-41ca-9390-9a19f9f02777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-link</value>
+      <webElementGuid>16278b81-0be4-4fe5-b543-f1671fcd26a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop by Brands</value>
+      <webElementGuid>0f7390f2-5e63-4b28-88a3-e30abb6839d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-all-departments-1&quot;)/li[@id=&quot;menu-item-2035&quot;]/a[@class=&quot;item-link&quot;]</value>
+      <webElementGuid>8e0ce70e-a4ae-40c9-9593-b80227783303</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-2035']/a</value>
+      <webElementGuid>76a808e0-98e1-48dd-90e1-f895cea665e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Shop by Brands')]</value>
+      <webElementGuid>b33bc387-7c36-4cfa-9b36-db5ca7a85111</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All departments'])[1]/following::a[1]</value>
+      <webElementGuid>e8a8324f-d164-4f27-890f-ff06d1856d5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RM'])[1]/following::a[1]</value>
+      <webElementGuid>32c9fac6-be43-4d5d-b512-9d58407b9da0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corelle'])[1]/preceding::a[1]</value>
+      <webElementGuid>00c83354-3185-427d-b388-19c324f05da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corningware'])[1]/preceding::a[2]</value>
+      <webElementGuid>b695c536-3158-40e6-9a80-6ef73a3f0291</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop by Brands']/parent::*</value>
+      <webElementGuid>f272c279-5208-462d-a06f-a8616949c621</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kitchenplaza.com.my/shop-by-brands/')]</value>
+      <webElementGuid>2217ec0e-c03d-4a6e-8e5b-54c43e48ee51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>74d97d35-d86e-4cf5-89cb-a2c5c88176c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kitchenplaza.com.my/shop-by-brands/' and (text() = 'Shop by Brands' or . = 'Shop by Brands')]</value>
+      <webElementGuid>c6fbf1e9-3dcf-4317-b8e0-7d9cdcb44056</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

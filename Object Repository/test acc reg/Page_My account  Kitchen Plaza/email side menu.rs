@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>email side menu</name>
+   <tag></tag>
+   <elementGuidId>6a731fde-1fd7-4e91-9c7f-9e05c01c47ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='hilmisidek'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5a61e44-9fb1-459c-a0a4-f779cfe7b0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>hilmisidek@hotmail.com</value>
+      <webElementGuid>b03324c2-89cb-4a42-a1cb-e1c20d38f173</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-template-default page page-id-12 logged-in theme-xstore woocommerce-account woocommerce-page woocommerce-js et_cart-type-3 et_b_dt_header-not-overlap et_b_mob_header-not-overlap wide et-catalog-off et-secondary-menu-on et-secondary-visibility-opened et-secondary-on-home et-enable-swatch elementor-default elementor-kit-6 elementor-page elementor-page-12 e--ua-blink e--ua-chrome e--ua-webkit et-preloader-hide&quot;]/div[@class=&quot;template-container&quot;]/div[@class=&quot;template-content&quot;]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;container content-page sidebar-mobile-bottom&quot;]/div[@class=&quot;sidebar-position-without&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;content col-md-12&quot;]/div[@class=&quot;elementor elementor-12&quot;]/section[@class=&quot;elementor-section elementor-top-section elementor-element elementor-element-5af8315a elementor-section-boxed elementor-section-height-default elementor-section-height-default&quot;]/div[@class=&quot;elementor-container elementor-column-gap-no&quot;]/div[@class=&quot;elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42394ea&quot;]/div[@class=&quot;elementor-widget-wrap elementor-element-populated&quot;]/div[@class=&quot;elementor-element elementor-element-62ed04d elementor-widget elementor-widget-shortcode&quot;]/div[@class=&quot;elementor-widget-container&quot;]/div[@class=&quot;elementor-shortcode&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;woocommerce-MyAccount-navigation-wrapper type-new&quot;]/div[@class=&quot;MyAccount-user-info&quot;]/div[1]/div[2]</value>
+      <webElementGuid>8043b4fe-2d54-4df3-8cbc-f7df9ac5e622</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='hilmisidek'])[1]/following::div[1]</value>
+      <webElementGuid>022b601d-bcf0-4029-979e-dc3cdfa1ffc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/following::div[19]</value>
+      <webElementGuid>82d63b3f-8363-4560-b7e4-d0e92d6db249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Orders'])[1]/preceding::div[1]</value>
+      <webElementGuid>6a33638b-cb0b-4e0a-876d-32d95c4dc9d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Address'])[1]/preceding::div[1]</value>
+      <webElementGuid>9645bc64-5c93-4456-b7a4-2906ed9e576b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='hilmisidek@hotmail.com']/parent::*</value>
+      <webElementGuid>b9fad192-3be9-403c-b53e-fb81fb46085a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div/div/div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>f2ca3d32-73ea-4ae6-8134-5d2a2956714f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'hilmisidek@hotmail.com' or . = 'hilmisidek@hotmail.com')]</value>
+      <webElementGuid>a4bf6fe5-a160-4299-aa54-9674734f2969</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kitchen Tools</name>
+   <tag></tag>
+   <elementGuidId>946ae116-3797-4099-894c-5981d9399e6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-3032']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-3032 > a.item-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>054b07bf-fa63-43b1-803b-eec6ffefcf2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kitchenplaza.com.my/product-category/kitchen-tools/</value>
+      <webElementGuid>d2e11f10-48d2-4ead-b141-bfe1d0d7c260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-link</value>
+      <webElementGuid>a46afc52-a9fd-4758-ac16-429cb7baf97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kitchen Tools</value>
+      <webElementGuid>7e8fc4b3-9893-406a-8060-fce630cb4ff3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-all-departments-1&quot;)/li[@id=&quot;menu-item-3032&quot;]/a[@class=&quot;item-link&quot;]</value>
+      <webElementGuid>5de569bd-8d01-45ac-89d3-8133f2d33c57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-3032']/a</value>
+      <webElementGuid>9f681cdc-15e3-4a8b-909c-7823ce3e21e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Kitchen Tools')]</value>
+      <webElementGuid>c4ed2cdc-6a91-44a8-846c-48477eef87f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stainless Steel'])[1]/following::a[1]</value>
+      <webElementGuid>35e9929d-3864-401c-a7fa-b03f311b06f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non-Stick'])[1]/following::a[2]</value>
+      <webElementGuid>ea130496-306d-4a8c-8016-b6511bfbdc77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kitchen Utensils'])[1]/preceding::a[1]</value>
+      <webElementGuid>51465b3a-431f-4298-9a64-a7cb1315cef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Knife &amp; Tools'])[1]/preceding::a[2]</value>
+      <webElementGuid>303297b1-9d11-4d72-9c1a-b945f0492d03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kitchen Tools']/parent::*</value>
+      <webElementGuid>f1100706-36db-444b-8732-106fad5c29c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kitchenplaza.com.my/product-category/kitchen-tools/')]</value>
+      <webElementGuid>3d66662d-4d96-425b-b10a-e59a548a5ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[4]/a</value>
+      <webElementGuid>231638ba-18cc-4cb0-af05-e7f743dcead6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kitchenplaza.com.my/product-category/kitchen-tools/' and (text() = 'Kitchen Tools' or . = 'Kitchen Tools')]</value>
+      <webElementGuid>21062728-3dfb-45aa-94ef-eccdeac30154</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

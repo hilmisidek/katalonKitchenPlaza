@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test registration</description>
+   <name>Registration error</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>23da3b99-d6fb-4f3b-aeb5-37ccceb154d2</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1bf8a6f1-a489-48e5-8619-c39b792a3f86</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Reg_Email_Error</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1bf8a6f1-a489-48e5-8619-c39b792a3f86</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email_Exist</value>
+      <variableId>43660baa-19c8-4438-8d83-a49d2e728a37</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1bf8a6f1-a489-48e5-8619-c39b792a3f86</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>error_Text</value>
+      <variableId>65529984-0bac-4ec4-a909-aa3b0327c19b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43660baa-19c8-4438-8d83-a49d2e728a37</id>
+      <masked>false</masked>
+      <name>email_Input</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>65529984-0bac-4ec4-a909-aa3b0327c19b</id>
+      <masked>false</masked>
+      <name>error_Text</name>
+   </variable>
+</TestCaseEntity>

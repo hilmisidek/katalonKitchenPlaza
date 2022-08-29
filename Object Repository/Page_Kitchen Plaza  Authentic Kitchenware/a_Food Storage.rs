@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Food Storage</name>
+   <tag></tag>
+   <elementGuidId>3e634f8f-bcb8-4955-aba2-fb74acacea20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='menu-item-15633']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu-item-15633 > a.item-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5941bedc-a08b-4308-877f-771f91e22dbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://kitchenplaza.com.my/product-category/food-storage</value>
+      <webElementGuid>5735f2cf-2c4d-4fd6-9522-19507b603dde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>item-link</value>
+      <webElementGuid>2a85dfc7-eb4c-4e67-a7f1-f804d4a1f482</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Food Storage</value>
+      <webElementGuid>5e9dc1b5-5da0-40a9-8305-d6d8c3d1dd6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-all-departments-1&quot;)/li[@id=&quot;menu-item-15633&quot;]/a[@class=&quot;item-link&quot;]</value>
+      <webElementGuid>eddfc652-3eca-4c50-adac-17f6f1526fef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='menu-item-15633']/a</value>
+      <webElementGuid>38c1ff85-32e6-4e91-8647-01003e39464a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Food Storage')]</value>
+      <webElementGuid>f5c26519-3c94-484a-b56b-e5821b832586</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Slaughter Knife'])[1]/following::a[1]</value>
+      <webElementGuid>cb013384-43ec-4506-b681-f5b42d4555d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skinning Knife'])[1]/following::a[2]</value>
+      <webElementGuid>65cd0603-c649-4fa5-98c0-b56cf572b478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search input'])[1]/preceding::a[1]</value>
+      <webElementGuid>f5141012-3ce5-476e-8722-f806ed190dc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>8298c046-d166-4321-b0cb-fc04c983e4f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Food Storage']/parent::*</value>
+      <webElementGuid>375b19f6-dfbb-4fd4-b528-ac83bdedfced</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://kitchenplaza.com.my/product-category/food-storage')]</value>
+      <webElementGuid>8894bcc4-1e6d-439d-affc-c75ea0c8cdfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>a8b684b5-2c40-4233-8a24-ab51c0963440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://kitchenplaza.com.my/product-category/food-storage' and (text() = 'Food Storage' or . = 'Food Storage')]</value>
+      <webElementGuid>5919b823-a7b8-4f0f-bf31-6fb666ea87d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
